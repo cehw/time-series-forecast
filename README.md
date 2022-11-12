@@ -24,7 +24,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 22-06-08|[Scaleformer](https://arxiv.org/abs/2206.04038)|Arxiv 2022|[Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://zhuanlan.zhihu.com/p/535556231)|None
 22-08-30|[Persistence Initialization](https://arxiv.org/abs/2208.14236)|Arxiv 2022|[Persistence Initialization: A novel adaptation of the Transformer architecture for Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|None
 22-09-08|[W-Transformers](https://arxiv.org/abs/2209.03945)|Arxiv 2022|[W-Transformers: A Wavelet-based Transformer Framework for Univariate Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|[w-transformer](https://github.com/capwidow/w-transformer)
-22-12|wind transformer|[Multistep short-term wind speed forecasting using transformer](https://www.sciencedirect.com/science/article/pii/S0360544222021193#b12)
+22-12|wind transformer|Energy|[Multistep short-term wind speed forecasting using transformer](https://www.sciencedirect.com/science/article/pii/S0360544222021193#b12)
 
 ## RNN.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
